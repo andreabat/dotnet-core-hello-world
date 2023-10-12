@@ -1,0 +1,13 @@
+/workspaces/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.deps.json
+/workspaces/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.runtimeconfig.json
+/workspaces/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.runtimeconfig.dev.json
+/workspaces/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.dll
+/workspaces/dotnet-core-hello-world/bin/Debug/netcoreapp2.1/dotnet-core-hello-world.pdb
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.csproj.AssemblyReference.cache
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.AssemblyInfoInputs.cache
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.AssemblyInfo.cs
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.dll
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.pdb
+/workspaces/dotnet-core-hello-world/obj/Debug/netcoreapp2.1/dotnet-core-hello-world.genruntimeconfig.cache

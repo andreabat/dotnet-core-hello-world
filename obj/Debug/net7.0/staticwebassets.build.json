@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B3avPQPySi48NMxWObITY3AJlb6nSA2/ezHpgcrerKc=",
+  "Source": "dotnet-core-hello-world",
+  "BasePath": "_content/dotnet-core-hello-world",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
